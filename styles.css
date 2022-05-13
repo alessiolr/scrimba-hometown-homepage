@@ -22,7 +22,7 @@ img {
     color: white;
     background-image: url("images/ldn.jpeg");
     background-size: cover;
-    padding: 177px 260px 127px;
+    padding: 120px 200px 120px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -34,12 +34,14 @@ img {
     background: #211D18;
     padding: 3px 12px 5px 12px;
     border-radius: 10px;
+    margin: 120px auto 5px;
 }
 
 #hero-description {
     background:  #45443F;
     padding: 5px 28px 8px;
     border-radius: 10px;
+    margin: 20px auto 120px;
 }
 
 #activities {
